@@ -17,7 +17,6 @@ assign testWire = C;
 initial
 begin
 	$monitor("wire =%b	A=%b	B=%b	C=%b", testWire, A, B, C);
-
 	A =1'bz;
 	B =1'bz;
 	C =1'bz;
