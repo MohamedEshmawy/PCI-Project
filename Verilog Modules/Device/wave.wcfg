@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Other/College/3rdYear/CO2/VerilogProjects/Verilog_test/Device_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="Device_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/Device_tb/Frame" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Frame</obj_property>
+      <obj_property name="ObjectShortName">Frame</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/TRDY" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TRDY</obj_property>
+      <obj_property name="ObjectShortName">TRDY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/IRDY" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">IRDY</obj_property>
+      <obj_property name="ObjectShortName">IRDY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/cmd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cmd</obj_property>
+      <obj_property name="ObjectShortName">cmd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/addr_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_data[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/selDev" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">selDev</obj_property>
+      <obj_property name="ObjectShortName">selDev</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/req" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">req</obj_property>
+      <obj_property name="ObjectShortName">req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/slotSel" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">slotSel</obj_property>
+      <obj_property name="ObjectShortName">slotSel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/gnt" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">gnt</obj_property>
+      <obj_property name="ObjectShortName">gnt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/force_req" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">force_req</obj_property>
+      <obj_property name="ObjectShortName">force_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Device_tb/test_cmd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">test_cmd</obj_property>
+      <obj_property name="ObjectShortName">test_cmd</obj_property>
+   </wvobject>
+</wave_config>

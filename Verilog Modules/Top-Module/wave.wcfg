@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Other/College/3rdYear/CO2/VerilogProjects/Verilog_test/TopModule_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="TopModule" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="34" />
+   <wvobject fp_name="/TopModule/force_reqA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">force_reqA</obj_property>
+      <obj_property name="ObjectShortName">force_reqA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/force_reqB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">force_reqB</obj_property>
+      <obj_property name="ObjectShortName">force_reqB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/force_reqC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">force_reqC</obj_property>
+      <obj_property name="ObjectShortName">force_reqC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/AddressToContactA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">AddressToContactA[4:0]</obj_property>
+      <obj_property name="ObjectShortName">AddressToContactA[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/AddressToContactB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">AddressToContactB[4:0]</obj_property>
+      <obj_property name="ObjectShortName">AddressToContactB[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/AddressToContactC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">AddressToContactC[4:0]</obj_property>
+      <obj_property name="ObjectShortName">AddressToContactC[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/dataPhaseCountA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataPhaseCountA[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dataPhaseCountA[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/dataPhaseCountB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataPhaseCountB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dataPhaseCountB[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/dataPhaseCountC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataPhaseCountC[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dataPhaseCountC[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/Frame" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Frame</obj_property>
+      <obj_property name="ObjectShortName">Frame</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/addr_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_data[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/TRDY" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">TRDY</obj_property>
+      <obj_property name="ObjectShortName">TRDY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/IRDY" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">IRDY</obj_property>
+      <obj_property name="ObjectShortName">IRDY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/selDev" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">selDev</obj_property>
+      <obj_property name="ObjectShortName">selDev</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/reqA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reqA</obj_property>
+      <obj_property name="ObjectShortName">reqA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/gntA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">gntA</obj_property>
+      <obj_property name="ObjectShortName">gntA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/reqB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reqB</obj_property>
+      <obj_property name="ObjectShortName">reqB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/gntB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">gntB</obj_property>
+      <obj_property name="ObjectShortName">gntB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/reqC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reqC</obj_property>
+      <obj_property name="ObjectShortName">reqC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/gntC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">gntC</obj_property>
+      <obj_property name="ObjectShortName">gntC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/slotAddressA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">slotAddressA[4:0]</obj_property>
+      <obj_property name="ObjectShortName">slotAddressA[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/slotAddressB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">slotAddressB[4:0]</obj_property>
+      <obj_property name="ObjectShortName">slotAddressB[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/slotAddressC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">slotAddressC[4:0]</obj_property>
+      <obj_property name="ObjectShortName">slotAddressC[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/dataToWriteA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataToWriteA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dataToWriteA[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/dataToWriteB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataToWriteB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dataToWriteB[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/dataToWriteC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataToWriteC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dataToWriteC[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/test_cmdA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">test_cmdA</obj_property>
+      <obj_property name="ObjectShortName">test_cmdA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/selSlotA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">selSlotA</obj_property>
+      <obj_property name="ObjectShortName">selSlotA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/cmd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cmd</obj_property>
+      <obj_property name="ObjectShortName">cmd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/test_cmdB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">test_cmdB</obj_property>
+      <obj_property name="ObjectShortName">test_cmdB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/selSlotB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">selSlotB</obj_property>
+      <obj_property name="ObjectShortName">selSlotB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/test_cmdC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">test_cmdC</obj_property>
+      <obj_property name="ObjectShortName">test_cmdC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule/selSlotC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">selSlotC</obj_property>
+      <obj_property name="ObjectShortName">selSlotC</obj_property>
+   </wvobject>
+</wave_config>
